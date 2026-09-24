@@ -1,0 +1,8 @@
+{
+  "name": "Komorebi — Minimalist Meditation & Nature Soundscapes",
+  "description": "A minimalist meditation sanctuary featuring procedural nature soundscapes, personalized breathwork exercises, and daily mindfulness streak tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
